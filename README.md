@@ -58,5 +58,5 @@ Te dejamos un post interesante que puede ayudarte a resolver el ejercicio: [Prog
 ## Captura
 
 <p align="center">
-    <img src="https://i.imgur.com/9ZZk2L3.png" alt="Consola Intellij">
+    <img src="https://i.imgur.com/VN109uK.png" alt="Consola Intellij">
 </p>
